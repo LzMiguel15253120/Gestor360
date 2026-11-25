@@ -4,8 +4,8 @@ Sistema web de gestão para pequenas empresas. A aplicação usa uma API Spring 
 
 ## Requisitos e versões
 
-- Java 17 ou superior
-- Maven 3.6.3 ou superior
+- Java 25 (LTS) ou superior
+- Maven 3.9 ou superior (recomendado)
 - Node.js 20.19+ ou 22.12+ e npm
 - Dependências do frontend instaladas pelo npm
 

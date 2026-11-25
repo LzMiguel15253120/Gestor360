@@ -1,7 +1,6 @@
 package br.com.gestor360.service;
 
 import java.util.List;
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import br.com.gestor360.dto.CatalogDtos.*;
